@@ -1,0 +1,16 @@
+id: I79024269
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:17:23.616999
+last_modified: 2023-02-10 00:17:23.617120
+source_metadata:
+  title: 'MSV 6,08: Kathāvastu'
+  language: bo
+bases:
+  EE7B:
+    base_file: EE7B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

@@ -1,0 +1,11 @@
+id: 0fa3823d52df4962a0a42175c288d3ac
+annotation_type: index
+revision: '00001'
+annotations:
+  adbdece2b9b64adc9f2dbf5cff31f4f7:
+    base: EE7B.txt
+    Chapters:
+    - title: Kathāvastu
+      span:
+        start: 0
+        end: 394
